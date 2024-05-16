@@ -57,8 +57,3 @@ todos os campos e permitir que o usuário comece um novo cálculo.
 
 ---
 
-## Autor
-
-Este projeto foi desenvolvido por [Seu Nome/Aplicação] como parte de [insira aqui o propósito ou contexto do projeto, se aplicável].
-
----
